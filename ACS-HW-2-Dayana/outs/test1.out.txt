@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+1: Fiction: name = movie1, year = 2031, director = dayana, Quotient = 338.500000
+2: Cartoon: name = movie2, year = 1940, kind = PUPPET, Quotient = 323.333333
+3: Fiction: name = movie3, year = 1438, director = dfgdfgfd, Quotient = 239.666667
+4: Documentary: name = movie4, year = 1400, duration = 200000, Quotient = 233.333333
+5: Cartoon: name = movie5, year = 1400, kind = PUPPET, Quotient = 233.333333
+6: Fiction: name = movie6, year = 1438, director = dfgdf, Quotient = 239.666667
+7: Documentary: name = movie7, year = 1241, duration = 2350, Quotient = 206.833333
+8: Cartoon: name = movie8, year = 3252, kind = PUPPET, Quotient = 542.000000
+9: Fiction: name = movie9, year = 1438, director = werwe, Quotient = 239.666667
+10: Documentary: name = movie10, year = 1252, duration = 200000, Quotient = 178.857143

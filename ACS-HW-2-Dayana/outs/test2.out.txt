@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+1: Cartoon: name = movie1, year = 2031, kind = DRAW, Quotient = 338.500000
+2: Cartoon: name = movie2, year = 2931, kind = PUPPET, Quotient = 488.500000
+3: Cartoon: name = movie3, year = 5433, kind = PLASTICINE, Quotient = 905.500000
+4: Cartoon: name = movie4, year = 1956, kind = PUPPET, Quotient = 326.000000
+5: Cartoon: name = movie5, year = 2411, kind = PUPPET, Quotient = 401.833333
+6: Cartoon: name = movie6, year = 9483, kind = PLASTICINE, Quotient = 1580.500000
+7: Cartoon: name = movie7, year = 2352, kind = PUPPET, Quotient = 392.000000
+8: Cartoon: name = movie8, year = 1234, kind = PLASTICINE, Quotient = 205.666667
+9: Cartoon: name = movie9, year = 1524, kind = PUPPET, Quotient = 254.000000
+10: Cartoon: name = movie10, year = 7452, kind = PLASTICINE, Quotient = 1064.571429

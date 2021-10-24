@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/container.h
+movie.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/movie.h
+cstdio
+-
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/main.cpp
+container.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/container.h
+cstdlib
+-
+cstring
+-
+ctime
+-
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/movie.h
+cstdio
+-
+movie.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/movie.h
+utils.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/utils.h
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Dayana/utils.h
+cstddef
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+ctime
+-
+

@@ -1,0 +1,17 @@
+Running test1
+Memory: 2770 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+test1  done
+
+Running test2
+Memory: 2756 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+test2 done
+
+Running test3
+Memory: 2752 KB
+User time: 0.00 s
+Kernel time: 0.00 s
+procedural.txt Test 3 done
